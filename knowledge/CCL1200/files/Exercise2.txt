@@ -1,0 +1,24 @@
+//script for the Link to destination event handler
+/**
+* @param {params} params
+* @param {api} params.api
+* @param {any} params.event
+*/
+function evaluateEvent({api, event}) {
+	return {
+		route: 'record',
+		fields: {
+			'table': 'x_snc_flt_mgmt_maint_req',
+			'sysId': -1
+		},
+		params: {
+			'query': 'vehicle=' + api.item.value._row_data.uniqueValue
+		},
+		redirect: null,
+		passiveNavigation: null,
+		title: null,
+		multiInstField: null,
+		targetRoute: null,
+		external: null
+	};
+}

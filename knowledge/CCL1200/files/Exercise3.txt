@@ -1,0 +1,61 @@
+GraphQL Data resources
+
+Properties:
+[
+    {
+        "name": "vehicleSysId",
+        "label": "Vehicle SysID",
+        "readOnly": false,
+        "fieldType": "string",
+        "mandatory": true,
+        "defaultValue": ""
+      }
+]
+
+Query:
+query ($vehicleSysId: ID!) {
+    xSncFltMgmt {
+        fleet {
+            vehicle(id: $vehicleSysId) {
+                id
+                number
+                vin
+                image
+                tireRotation
+                oilChange
+                licensePlate
+                model {
+                    id
+                    modelName
+                    manufacturer {
+                        id
+                        name
+                    }
+                }
+                maintReqs {
+                    id
+                    number
+                    shortDescription
+                    assignedTo {
+                        id
+                        name
+                    }
+                    maintTasks {
+                        id
+                        number
+                        shortDescription
+                        assignedTo {
+                            id
+                            name
+                        }
+                    }
+                }
+                parts {
+                    serialNumber
+                    partName
+                }
+            }
+        }
+    }
+}
+
