@@ -1,6 +1,8 @@
 # bradtiltonnow.github.io
 
-This page serves as repository of links to content I have created sorted by type.
+This page serves as a repository of links to content I have created sorted by type.
+
+If you're in one of my Knowledge23 labs [go here](/knowledge/).
 
 ## Miscellaneous
 
@@ -21,7 +23,7 @@ This page serves as repository of links to content I have created sorted by type
 
 ## Video Content
 
-
+* [You and I Builder Live!](https://www.youtube.com/playlist?list=PL3rNcyAiDYK2Bgzj4mRdtfxMpGkI5KXBJ)
 * [UI Builder Bytes](https://www.youtube.com/playlist?list=PL3rNcyAiDYK0dbKPzncc05eFUPYQCs8Me)
 * [Live Coding Happy Hour](https://www.youtube.com/playlist?list=PL3rNcyAiDYK3YiwkTj8OUSs_FRz-YSIw2)
 * [Creator Toolbox](https://www.youtube.com/playlist?list=PL3rNcyAiDYK08_Xjuvu6IFEK8pqFT99WQ)
