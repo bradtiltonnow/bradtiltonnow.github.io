@@ -1141,7 +1141,7 @@ To learn how to request, access, and manage your Personal Developer Instance, ch
 1. Download and install the app from the Update Set titled **FleetMgmtAppv1.2.xml** in the following zip:
    * [Lab Resource Files](https://static.rainfocus.com/servicenow/digital/sess/1680551445730001BvqA/cclresourcezip/CCL1200-K23-resources_1683668875136001iDu7.zip)
 
-3. Follow Steps 2a-e in this [Share Guide](https://developer.servicenow.com/dev.do#!/guides/quebec/developer-program/share-guide/share-guide-introduction#downloading-and-installing-a-project) to learn how to import and install an Update Set.
+3. Follow Steps 2a-e in this [Share Guide](https://developer.servicenow.com/dev.do#!/guides/quebec/developer-program/share-guide/share-guide-introduction#downloading-and-installing-a-project) to learn how to import and install an Update Set. *If you get any errors, just accept the remote update for those.*
 
 4. After the update set is installed, add the **x_snc_flt_mgmt.user** role to your admin user and logout and back in.
 
