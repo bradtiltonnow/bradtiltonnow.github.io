@@ -28,8 +28,8 @@ If you're following along with this lab guide on a Personal Developer Instance (
 # Table of Contents
 
 * [Exercise 1 - Basic Workspace Configuration](#exercise-1---basic-workspace-configuration)
-* [Exercise 2 - Enhance the experience home page](#exercise-2-enhance-the-experience-home-page)
-* [Exercise 3 - Enhance the Record Page for Vehicles](exercise-3---enhance-the-record-page-for-vehicles)
+* [Exercise 2 - Enhance the experience home page](#exercise-2---enhance-the-experience-home-page)
+* [Exercise 3 - Enhance the Record Page for Vehicles](#exercise-3---enhance-the-record-page-for-vehicles)
 * [Exercise 4 - Create actions and buttons](#exercise-4---create-actions-and-buttons)
 * [Exercise 5 - Miscellaneous](#exercise-5---miscellaneous)
 
