@@ -23,7 +23,7 @@ The primary objective of this lab is to expose you to the different parts of con
 
 ## (Optional) Pre-flight check
 
-If you're doing this lab during CreatorCon, you'll be working on an instance on NowLearning loaded with the FLeet Vehicle Management application. If you're following along with this lab guide on a Personal Developer Instance (PDI), please follow the instructions in the Appendix at the end of this lab guide to learn how to pull in the Fleet Vehicle Management application.
+If you're following along with this lab guide on a Personal Developer Instance (PDI), please follow the instructions in the [Appendix](appendix) at the end of this lab guide to learn how to pull in the Fleet Vehicle Management application to your PDI.
 
 # Exercise 1 - Basic Workspace Configuration
 
