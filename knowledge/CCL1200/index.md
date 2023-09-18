@@ -23,7 +23,15 @@ The primary objective of this lab is to expose you to the different parts of con
 
 ## (Optional) Pre-flight check
 
-If you're doing this lab during CreatorCon, you'll be working on an instance on NowLearning loaded with the FLeet Vehicle Management application. If you're following along with this lab guide on a Personal Developer Instance (PDI), please follow the instructions in the Appendix at the end of this lab guide to learn how to pull in the Fleet Vehicle Management application.
+If you're following along with this lab guide on a Personal Developer Instance (PDI), please follow the instructions in the [Appendix](#appendix) at the end of this lab guide to learn how to pull in the Fleet Vehicle Management application to your PDI.
+
+# Table of Contents
+
+* [Exercise 1 - Basic Workspace Configuration](#exercise-1---basic-workspace-configuration)
+* [Exercise 2 - Enhance the experience home page](#exercise-2---enhance-the-experience-home-page)
+* [Exercise 3 - Enhance the Record Page for Vehicles](#exercise-3---enhance-the-record-page-for-vehicles)
+* [Exercise 4 - Create actions and buttons](#exercise-4---create-actions-and-buttons)
+* [Exercise 5 - Miscellaneous](#exercise-5---miscellaneous)
 
 # Exercise 1 - Basic Workspace Configuration
 
@@ -1130,14 +1138,14 @@ I hope this exercise was helpful. UX Page Properties and record watchers are fre
 
 To learn how to request, access, and manage your Personal Developer Instance, check out [this Guide](https://developer.servicenow.com/dev.do#!/guides/sandiego/developer-program/pdi-guide/personal-developer-instance-guide-introduction).
 
-1. Download and install the app from this Update Set:
-    * [FleetMgmtAppv1.2.xml](files/FleetMgmtAppv1.2.xml)
+1. Download and install the app from the Update Set titled **FleetMgmtAppv1.2.xml** in the following zip:
+   * [Lab Resource Files](https://static.rainfocus.com/servicenow/digital/sess/1680551445730001BvqA/cclresourcezip/CCL1200-K23-resources_1683668875136001iDu7.zip)
 
-2. Follow Steps 2a-e in this [Share Guide](https://developer.servicenow.com/dev.do#!/guides/quebec/developer-program/share-guide/share-guide-introduction#downloading-and-installing-a-project) to learn how to import and install an Update Set.
+3. Follow Steps 2a-e in this [Share Guide](https://developer.servicenow.com/dev.do#!/guides/quebec/developer-program/share-guide/share-guide-introduction#downloading-and-installing-a-project) to learn how to import and install an Update Set. *If you get any errors, just accept the remote update for those.*
 
-3. After the update set is installed, add the **x_snc_flt_mgmt.user** role to your admin user and logout and back in.
+4. After the update set is installed, add the **x_snc_flt_mgmt.user** role to your admin user and logout and back in.
 
-You can find an update set with this lab at: [FleetMgmtAppComplete.xml](files/FleetMgmtAppComplete.xml)
+> There is also a completed version of this lab in the update set titled **FleetMgmtAppComplete.xml** in the previous zip file.
 
 ## Setting up your PDI for this lab with Github
 
