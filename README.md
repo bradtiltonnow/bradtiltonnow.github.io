@@ -2,7 +2,7 @@
 
 This page serves as a repository of links to content I have created sorted by type.
 
-If you're in one of my Knowledge23 labs [go here](/knowledge/).
+If you're looking for a past Knowledge or CreatorCon lab [go here](/knowledge/).
 
 ## Miscellaneous
 
