@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2022-04-12 15:17:25">
+<x_snc_recipe_db_category action="INSERT_OR_UPDATE">
+<name>Appetizer</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-01 14:46:57</sys_created_on>
+<sys_id>9f0eea16116ec1107f4444bd6579ad28</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-01 14:46:57</sys_updated_on>
+</x_snc_recipe_db_category>
+<x_snc_recipe_db_category action="INSERT_OR_UPDATE">
+<name>Asian</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-03-30 02:23:04</sys_created_on>
+<sys_id>d5a0792d11a601107f4444bd6579ad5a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-03-30 02:23:04</sys_updated_on>
+</x_snc_recipe_db_category>
+<x_snc_recipe_db_category action="INSERT_OR_UPDATE">
+<name>BBQ</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-03-30 02:23:04</sys_created_on>
+<sys_id>95a0792d11a601107f4444bd6579ad5b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-03-30 02:23:04</sys_updated_on>
+</x_snc_recipe_db_category>
+<x_snc_recipe_db_category action="INSERT_OR_UPDATE">
+<name>Beef</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-03-30 02:23:04</sys_created_on>
+<sys_id>59a0792d11a601107f4444bd6579ad5b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-03-30 02:23:04</sys_updated_on>
+</x_snc_recipe_db_category>
+<x_snc_recipe_db_category action="INSERT_OR_UPDATE">
+<name>Breakfast</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-01 14:42:36</sys_created_on>
+<sys_id>281de656116ec1107f4444bd6579ad2c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-01 14:42:36</sys_updated_on>
+</x_snc_recipe_db_category>
+<x_snc_recipe_db_category action="INSERT_OR_UPDATE">
+<name>Chicken</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-03-30 02:23:04</sys_created_on>
+<sys_id>1da0792d11a601107f4444bd6579ad5b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-03-30 02:23:04</sys_updated_on>
+</x_snc_recipe_db_category>
+<x_snc_recipe_db_category action="INSERT_OR_UPDATE">
+<name>Dessert</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-03-31 20:31:11</sys_created_on>
+<sys_id>1843be4e112e81107f4444bd6579adfe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-03-31 20:31:11</sys_updated_on>
+</x_snc_recipe_db_category>
+<x_snc_recipe_db_category action="INSERT_OR_UPDATE">
+<name>Fruit</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-03-31 20:31:17</sys_created_on>
+<sys_id>a743b24e112e81107f4444bd6579ad80</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-03-31 20:31:17</sys_updated_on>
+</x_snc_recipe_db_category>
+<x_snc_recipe_db_category action="INSERT_OR_UPDATE">
+<name>Main</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-03-30 02:23:04</sys_created_on>
+<sys_id>dda0792d11a601107f4444bd6579ad5b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-03-30 02:23:04</sys_updated_on>
+</x_snc_recipe_db_category>
+<x_snc_recipe_db_category action="INSERT_OR_UPDATE">
+<name>Mexican</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-03-30 02:23:04</sys_created_on>
+<sys_id>91a0792d11a601107f4444bd6579ad5c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-03-30 02:23:04</sys_updated_on>
+</x_snc_recipe_db_category>
+<x_snc_recipe_db_category action="INSERT_OR_UPDATE">
+<name>Pork</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-03-30 02:23:04</sys_created_on>
+<sys_id>55a0792d11a601107f4444bd6579ad5c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-03-30 02:23:04</sys_updated_on>
+</x_snc_recipe_db_category>
+<x_snc_recipe_db_category action="INSERT_OR_UPDATE">
+<name>Salad</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-07 14:49:09</sys_created_on>
+<sys_id>9b18a15011bec9107f4444bd6579ad4c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-07 14:49:09</sys_updated_on>
+</x_snc_recipe_db_category>
+<x_snc_recipe_db_category action="INSERT_OR_UPDATE">
+<name>Sauce</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-01 14:46:46</sys_created_on>
+<sys_id>ad0e6696116ec1107f4444bd6579add1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-01 14:46:46</sys_updated_on>
+</x_snc_recipe_db_category>
+<x_snc_recipe_db_category action="INSERT_OR_UPDATE">
+<name>Seafood</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-03-30 02:23:04</sys_created_on>
+<sys_id>19a0792d11a601107f4444bd6579ad5c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-03-30 02:23:04</sys_updated_on>
+</x_snc_recipe_db_category>
+<x_snc_recipe_db_category action="INSERT_OR_UPDATE">
+<name>Side</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-03-30 02:23:04</sys_created_on>
+<sys_id>d9a0792d11a601107f4444bd6579ad5c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-03-30 02:23:04</sys_updated_on>
+</x_snc_recipe_db_category>
+<x_snc_recipe_db_category action="INSERT_OR_UPDATE">
+<name>Snack</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-01 14:47:03</sys_created_on>
+<sys_id>fd1e2696116ec1107f4444bd6579ad76</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-01 14:47:03</sys_updated_on>
+</x_snc_recipe_db_category>
+<x_snc_recipe_db_category action="INSERT_OR_UPDATE">
+<name>Vegetarian</name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2022-04-01 14:43:05</sys_created_on>
+<sys_id>5f2d2a56116ec1107f4444bd6579add2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2022-04-01 14:43:05</sys_updated_on>
+</x_snc_recipe_db_category>
+</unload>
