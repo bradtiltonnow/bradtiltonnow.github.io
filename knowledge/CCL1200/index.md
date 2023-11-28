@@ -1,5 +1,9 @@
 # Building a Killer Workspace Experience with UI Builder
 
+## Platform Roadshow
+
+If you're here with the platform roadshow, use this link to reserve your lab instance: [https://ccl1200-nov-7394-001-instructor.lab.service-now.com/sp/?id=instance_reservation](https://ccl1200-nov-7394-001-instructor.lab.service-now.com/sp/?id=instance_reservation)
+
 ## Goal
 
 In this lab you will learn how to use UI Builder to build and configure a workspace for a custom application. You will start with a prebuilt application to manage a company's fleet of vehicles.
